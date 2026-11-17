@@ -64,7 +64,7 @@ docker run --rm -v "$PWD":/app -w /app \
 
 ## Citation
 
-If you use GATE-GENE, please cite the GATE-GENE preprint.
+If you use GATE-GENE, please cite the GATE-GENE preprint: Wang, Y., Luo, W., Hu, L., Chen, T., Lu, W., Dowd, C., Wen, C., Bi, W., Koyama, S., Surakka, I., Neale, B. M., Daly, M., Nataranjan, P., Martin, A., & Zhou, W. (2026). Exome-wide rare-variant associations vary across disease trajectories. medRxiv. https://doi.org/10.64898/2026.11.14.26368035.
 
 ## About
 
